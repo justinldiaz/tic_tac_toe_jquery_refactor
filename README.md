@@ -14,7 +14,6 @@ Refactor the tic tac toe app to use jQuery instead of plain JavaScript.  Either 
 * Replace `app.js` with `ttt-jq-refactor.js` in your `<script>` tag in  `index.html`, so that your site will use the refactored code instead of the old `app.js`.
 * Include jQuery in your app by adding another HTML `<script>` tag. Try linking to a CDN.
 * In your `ttt-jq-refactor.js`, comment out each section of old JavaScript code and write the corresponding jQuery below it. 
-* Test your code as you go!
 
 ####Submission
 * Add and commit your work in your local repository.
@@ -23,3 +22,8 @@ Refactor the tic tac toe app to use jQuery instead of plain JavaScript.  Either 
 
 ####Hints
 * Use the [docs](https://api.jquery.com/). They outline the full jQuery API on the front page. Try using <ctrl> + F to search particular keywords. Otherwise, Google should get you what you're looking for.
+* Test your changes as you go!
+
+####Bonus Challenge Ideas
+* Allow your user to "undo" moves (requires keeping track of the game's state).
+* Create a mode where the computer plays against the user. Consider looking up how to put in a small time delay so that the computer's moves aren't instant. SUPER BONUS: Allow the user choose which mode to use at the beginning of the game.
