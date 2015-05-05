@@ -2,7 +2,10 @@
 
 
 ####Goal
-Refactor the tic tac toe app to use jQuery instead of plain JavaScript.  Either use your existing Tic Tac Toe project, or if you aren't satisfied with your code, you can also work off of the solution provided in the file `ttt-solution.js`.
+Refactor the tic tac toe app to use jQuery instead of plain JavaScript.  Either use your existing Tic Tac Toe project, or if you aren't satisfied with your code, you can also work off of the solution provided in the solution set:
+* `ttt-solution.js`
+* `ttt-solution.html`
+* `ttt-solution.css`
 
 ####Steps
 * Note: you do NOT need to fork this repository. We will be updating the same `tic-tac-toe` repo you created for your weekend lab.
