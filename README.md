@@ -10,8 +10,8 @@ Refactor the tic tac toe app to use jQuery instead of plain JavaScript.  Either 
 * Note: you do NOT need to fork this repository. We will be updating the same `tic-tac-toe` repo you created for your weekend lab.
 * In your local `tic-tac-toe` repo, create a new file called `ttt-jq-refactor.js`.
 * Copy your existing tic tac toe `app.js` into the `ttt-jq-refactor.js` file. 
-* Replace `app.js` with `ttt-jq-refactor.js` in your `<script>` tag in  `index.html`, so that your site will use the refactored code instead of the old `app.js`.
 * Include jQuery in your app by adding another HTML `<script>` tag. Try linking to a CDN.
+* Replace `app.js` with `ttt-jq-refactor.js` in your `<script>` tag in  `index.html`, so that your site will use the refactored code instead of the old `app.js`.
 * In your `ttt-jq-refactor.js`, comment out each section of old JavaScript code and write the corresponding jQuery below it. 
 
 ####Submission
