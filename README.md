@@ -25,5 +25,5 @@ Refactor the tic tac toe app to use jQuery instead of plain JavaScript.  Either 
 * Test your changes as you go!
 
 ####Bonus Challenge Ideas
-* Allow your user to "undo" moves (requires keeping track of the game's state).
+* Allow your user to "undo" or "replay" moves (start by keeping track of the game's state).
 * Create a mode where the computer plays against the user. Consider looking up how to put in a small time delay so that the computer's moves aren't instant. SUPER BONUS: Allow the user choose which mode to use at the beginning of the game.
