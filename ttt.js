@@ -54,7 +54,7 @@ window.addEventListener('load', function() {
 
   // square is a p element
   function setSquare(square) {
-    square.html(turn)  // turn = X or O
+    square.innerHTML = turn;  // turn = X or O
     square.setAttribute('class', turn);
     turn === 'X' ? turn = 'O' : turn = 'X';
   }
